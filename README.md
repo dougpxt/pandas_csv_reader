@@ -11,9 +11,8 @@ Simplify your CSV data analysis with the Pandas CSV Reader, a Python-based proje
 
 ## Usage
 - Installation: Make sure you have Python and Tkinter extensions installed on your IDE. Clone this repository and navigate to the project directory.
-<p></p>
 - Dependencies: Install the required dependencies using the following command:
-<p>>pip install PySimpleGUI</p>
+>pip install PySimpleGUI
 <p></p>
 - Run the Application: Execute the new_csv_reader.py script to start the Spending Registry application.
 <p></p>
